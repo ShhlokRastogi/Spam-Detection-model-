@@ -1,25 +1,7 @@
-Awesome! 🎉 Now that your project is successfully pushed to GitHub, here are your next great steps:
-
----
-
-## ✅ Things You Can Do Now
-
-### 📌 1. **Create a Professional `README.md`**
-
-This is important for showcasing your project clearly. Here's a simple template you can use:
-
----
-
-### 📄 `README.md` Template:
-
-````markdown
-# 📧 Spam/Phishing Email Detection using XGBoost and OCR
-
-This project detects spam/phishing emails using a machine learning model trained on email datasets and applies OCR for screenshot-based predictions.
 
 ## 🔍 Features
 
-- Trained with XGBoost on textual features (Bag-of-Words / TF-IDF)
+- Trained with XGBoost on textual features (Bag-of-Words)
 - Handles input from raw text and email screenshots
 - OCR via Tesseract to extract text from screenshots
 - Classifies emails as `Spam 🚫` or `Legit ✅`
